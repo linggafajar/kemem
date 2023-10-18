@@ -1,0 +1,59 @@
+#judul {
+  margin-left: 10%;
+  margin-top: 30px;
+  text-transform: capitalize;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #a0a0a0;
+}
+
+body {
+background-image: url("jk.png");
+  
+}
+
+#navbar ul {
+  display: flex;
+  margin-left: 50%;
+  margin-top: -3vw;
+  width: 40%;
+  justify-content: space-between;
+  text-transform: capitalize;
+  font-weight: bold;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: rgb(208, 132, 1);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serifs;
+}
+
+#isi img {
+  width: 200px;
+  height: 220px;
+  margin-left: 42%;
+  margin-top: 7%;
+}
+
+#isi h1 {
+  margin-left: 39%;
+  margin-top: 10px;
+  color: #ab9009;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#isi h4 {
+  margin-left: 45%;
+  margin-top: 10px;
+  color: #ab9009;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#footer ul{
+  display: flex;
+  list-style: none;
+  margin-left: 25vw;
+}
+

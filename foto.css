@@ -1,0 +1,26 @@
+body{
+  background-image: url("jk.png");
+}
+#navbar ul {
+  display: flex;
+  justify-content: space-between;
+  text-transform: capitalize;
+  margin-left: 50%;
+  width: 40%;
+  margin-top: 3%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: rgb(208, 132, 1);
+}
+#foto img{
+    margin-top: 10%;
+    width: 200px;
+}

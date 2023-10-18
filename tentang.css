@@ -1,0 +1,64 @@
+body {
+  width:auto;
+  height: 200px;
+  background-image: url("bg1.png");
+
+  
+}
+
+#judul {
+  margin-left: 10%;
+  margin-top: 30px;
+  text-transform: capitalize;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #a0a0a0;
+}
+
+#navbar ul {
+  display: flex;
+  justify-content: space-between;
+  text-transform: capitalize;
+  margin-left: 50%;
+  margin-top: -3vw;
+  width: 40%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+}
+
+#navbar ul li {
+  list-style: none;
+}
+
+#navbar ul li a {
+  text-decoration: none;
+  color: rgb(208, 132, 1);
+}
+#isi img {
+width: 200px;
+height: 320px;
+margin-left: 18%;
+margin-top: 10%;
+
+}
+#isi-kanan{
+  color: #ad8500;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin-top: 30%;
+}
+#isi-kanan h1{
+  margin-left: 35%;
+  margin-top:-20% ;
+  text-transform:capitalize ;
+}
+#isi-kanan h3{ 
+  margin-left: 35%;
+  line-height: 40%;
+  font-size: medium;
+}
+#isi-kanan h2{ 
+  margin-left: 35%;
+  line-height: 40%;
+  font-size: medium;
+  text-transform: capitalize;
+}
+
